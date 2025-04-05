@@ -1,0 +1,82 @@
+final List<Map<String, Object>> _questions = [
+    {
+      'question': 'Apa kepanjangan dari HTML?',
+      'answers': [
+        {'text': 'Hypertext Markup Language', 'score': 10},
+        {'text': 'Hypertext text Making Language', 'score': 0},
+        {'text': 'Hypertext Modern Language', 'score': 0},
+      ],
+    },
+    {
+      'question': 'Dalam konsep OOP, apa itu enkapsulasi?',
+      'answers': [
+        {'text': 'Kemampuan untuk suatu objek mengambil bentuk', 'score': 0},
+        {'text': 'Encapsulation adalah teknik yang menggabungkan beberapa objek menjadi satu tanpa aturan akses.', 'score': 0},
+        {'text': 'Kemampuan untuk menyembunyikan detail internal objek dan menyediakan interface untuk berinteraksi dengannya', 'score': 10},
+      ],
+    },
+    {
+      'question': 'Apa elemen JavaScript yang merepresentasikan nilai TRUE atau FALSE?',
+      'answers': [
+        {'text': 'Boolean', 'score': 10},
+        {'text': 'Event', 'score': 0},
+        {'text': 'Condition', 'score': 0},
+      ],
+    },
+    {
+      'question': 'Dalam Python, Anda dapat menggunakan file yang sudah ada sebelumnya dengan ekstensi \'.py\' yang mengimplementasikan sekumpulan fungsi sekaligus. Apa nama file-file ini?',
+      'answers': [
+        {'text': 'Packages', 'score': 0},
+        {'text': 'Operators', 'score': 0},
+        {'text': 'Modules', 'score': 10},
+      ],
+    },
+    {
+      'question': 'Fungsi mana yang sering digunakan untuk menampilkan values dan print text?',
+      'answers': [
+        {'text': 'print()', 'score': 10},
+        {'text': 'output()', 'score': 0},
+        {'text': 'write()', 'score': 0},
+      ],
+    },
+    {
+      'question': 'Apa kepanjangan dari CSS?',
+      'answers': [
+        {'text': 'Centralized Style Sheet', 'score': 0},
+        {'text': 'Cascading Style Sheet', 'score': 10},
+        {'text': 'Computer Style Sheet', 'score': 0},
+      ],
+    },
+    {
+      'question': 'Operator mana yang dapat digunakan untuk membandingkan dua values?',
+      'answers': [
+        {'text': '==', 'score': 10},
+        {'text': '=', 'score': 0},
+        {'text': '<>', 'score': 0},
+      ],
+    },
+    {
+      'question': 'Keyword apa yang digunakan untuk mereturn value di dalam sebuah fungsi?',
+      'answers': [
+        {'text': 'get', 'score': 0},
+        {'text': 'void', 'score': 0},
+        {'text': 'return', 'score': 10},
+      ],
+    },
+    {
+      'question': 'Dari statement berikut mana yang digunakan untuk memilih salah satu dari sekian banyak code blocks untuk dieksekusi?',
+      'answers': [
+        {'text': 'switch', 'score': 10},
+        {'text': 'break', 'score': 0},
+        {'text': 'default', 'score': 0},
+      ],
+    },
+    {
+      'question': 'Dari Keyword berikut mana yang digunakan untuk membuat structure?',
+      'answers': [
+        {'text': 'structure', 'score': 0},
+        {'text': 'struct', 'score': 10},
+        {'text': 'str', 'score': 0},
+      ],
+    },
+  ];
